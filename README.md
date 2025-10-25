@@ -18,4 +18,5 @@ Breno dos Santos Rodrigues — UFPR | RBTUR???
 
 ## Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar e adaptar com atribuição.
+Este projeto está sob a licença Creative Commons Attribution 4.0.
+Sinta-se livre para usar e adaptar com atribuição.
