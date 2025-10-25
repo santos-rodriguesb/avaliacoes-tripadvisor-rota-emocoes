@@ -43,4 +43,14 @@ Previsão de publicação: após aprovação editorial
 ## 📜 Licença
 
 Este projeto está sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0):. Você pode usar, modificar e distribuir com atribuição.
+## 📌 Como citar este repositório
+
+Se você utilizar este banco de dados ou o script em seus trabalhos, por favor cite:
+
+**Rodrigues, B. S., Pereira, M. L., Bezerril, F. H., & Perinotto, A. R. C.** (2025). *A correlação entre a nota e a extensão dos comentários em avaliações online de atrações turísticas na Rota das Emoções no TripAdvisor*. Submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR).
+
+Ou, se preferir citar o repositório diretamente:
+
+> Rodrigues, B. S. (2025). *avaliacoes-trabalho-rtc-emocoes* [Data and code repository]. GitHub. https://github.com/brendoanz/avaliacoes-trabalho-rtc-emocoes
+
 
