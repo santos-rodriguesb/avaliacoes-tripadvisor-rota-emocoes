@@ -1,9 +1,9 @@
 # ============================================================
 # ANÁLISE ESTATÍSTICA DE AVALIAÇÕES NA ROTA DAS EMOÇÕES
 # ============================================================
-# Autor: Breno dos Santos Rodrigues (UFPR)
+# Autor: Breno Santos-Rodrigues (UFPR)
 # Coautores: Profa. Dra. Melise de Lima Pereira (UFPR)
-#            Me. Francisco Henrique Bezerril (UFRN)
+#            Me. Francisco Henrique Bezerril Lima(UFRN)
 #            Prof. Dr. André Riani Costa Perinotto (UFDPar / PPGTUR-UFPR)
 # Artigo submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR)
 # Licença: Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -79,3 +79,4 @@ ggplot(rota_final, aes(x = Grupo, y = Length_of_review)) +
 
 # 9. Exportar gráfico (opcional)
 # ggsave("boxplot_grupo.png", width = 8, height = 5)
+
