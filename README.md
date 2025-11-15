@@ -47,7 +47,7 @@ Este projeto está sob a licença [Creative Commons Attribution 4.0 Internationa
 
 Se você utilizar este banco de dados ou o script em seus trabalhos, por favor cite:
 
-**Santos-Rodrigues, B., Bezerril, F. H., & Perinotto, A. R. C.** (2025). *A correlação entre a nota e a extensão dos comentários em avaliações online de atrações turísticas na Rota das Emoções no TripAdvisor*. Submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR).
+**Santos-Rodrigues, B., LIMA, F. H. B., & Perinotto, A. R. C.** (2025). *A correlação entre a nota e a extensão dos comentários em avaliações online de atrações turísticas na Rota das Emoções no TripAdvisor*. Submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR).
 
 Ou, se preferir citar o repositório diretamente:
 
