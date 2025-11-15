@@ -29,15 +29,14 @@ Investigar se existe diferença significativa no tamanho dos comentários entre 
 ## 👥 Autoria
 
 - **Breno Santos-Rodrigues** – Universidade Federal do Paraná (UFPR)  
-- **Profa. Dra. Melise de Lima Pereira** – Universidade Federal do Paraná (UFPR)  
 - **Me. Francisco Henrique Bezerril** – Universidade Federal do Rio Grande do Norte (UFRN)  
 - **Prof. Dr. André Riani Costa Perinotto** – Universidade Federal do Delta do Parnaíba (UFDPar)  
   *(Professor permanente da pós-graduação em Turismo na UFPR)*
 
 ## 🧾 Submissão
 
-Artigo submetido à **Revista Brasileira de Pesquisa em Turismo (RBTUR)**  
-Qualis A2 | Área: Turismo  
+Artigo Publicado na **Revista XYZ**  
+Qualis Abcd | Área: Turismo  
 Previsão de publicação: após aprovação editorial
 
 ## 📜 Licença
