@@ -5,10 +5,9 @@ authors:
   - given-names: "Breno"
     family-names: "Santos-Rodrigues"
   - given-names: "Francisco Henrique"
-    family-names: "Bezerril de Lima"
+    family-names: "Bezerril Lima"
   - given-names: "André Riani"
     family-names: "Costa Perinotto"
-version: "v1.0.11-25"
-doi: "10.5281/zenodo.17625505"
-date-released: "2025-11-16"
+# DOI Conceitual (para todas as versões). Sempre apontará para a mais recente.
+doi: "10.5281/zenodo.17625444"
 repository-code: "https://github.com/santos-rodriguesb/avaliacoes-tripadvisor-rota-emocoes"
