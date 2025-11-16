@@ -41,13 +41,14 @@ Previsão de publicação: após aprovação editorial
 
 ## 📜 Licença
 
-Este projeto está sob a licença [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Você pode usar, modificar e distribuir com atribuição.
+Este projeto está sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Você pode usar, modificar e distribuir os dados e códigos, desde que forneça a atribuição adequada.
 
 ## 📌 Como citar este repositório
 
-Se você utilizar este banco de dados ou o script em seus trabalhos, por favor cite:
 
-**Santos-Rodrigues, B., LIMA, F. H. B., & Perinotto, A. R. C.** (2025). *A correlação entre a nota e a extensão dos comentários em avaliações online de atrações turísticas na Rota das Emoções no TripAdvisor*. Submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR).
+Se você utilizar este banco de dados ou o script em seus trabalhos, por favor, cite o artigo:
+
+Santos-Rodrigues, B., Lima, F. H. B., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online de Atrações Turísticas: Uma Análise entre Detratores e Promotores na Rota das Emoções*. Submetido à Revista....
 
 Ou, se preferir citar o repositório diretamente:
 
