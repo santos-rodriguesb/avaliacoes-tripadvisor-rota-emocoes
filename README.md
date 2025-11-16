@@ -40,10 +40,16 @@ Este projeto está sob a licença Creative Commons Attribution 4.0 International
 ## 📌 Como citar este repositório
 
 
-Se você utilizar este banco de dados ou o script em seus trabalhos, por favor, cite o artigo:
+### 📌 Como Citar
 
-Santos-Rodrigues, B., Lima, F. H. B., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online de Atrações Turísticas: Uma Análise entre Detratores e Promotores na Rota das Emoções*. Submetido à Revista....
+Se você utilizar este banco de dados ou script em seus trabalhos, por favor, cite o artigo e/ou o repositório de dados.
 
-Ou, se preferir citar o repositório diretamente:
+**Citação do Artigo (Preferencial):**
+> Santos-Rodrigues, B., Lima, F. H. B., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online de Atrações Turísticas: Uma Análise entre Detratores e Promotores na Rota das Emoções*. Submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR).
+> 
+> *(Nota: Esta citação será atualizada com os dados da revista após a publicação final.)*
 
-> Santos-Rodrigues, B. (2025). *avaliacoes-tripadvisor-rota-emocoes* [Repositório de dados e código]. GitHub. Disponível em: https://github.com/santos-rodriguesb/avaliacoes-tripadvisor-rota-emocoes
+**Citação do Repositório (DOI Geral/Conceitual):**
+Esta citação garante que você sempre aponte para a versão mais recente do projeto, que incluirá o link para o artigo publicado (quando disponível).
+
+> Santos-Rodrigues, B., Lima, F. H. B., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online na Rota das Emoções* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17625444
