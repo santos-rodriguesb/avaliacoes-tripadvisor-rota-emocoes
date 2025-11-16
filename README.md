@@ -1,4 +1,3 @@
-```markdown
 # Extensão Textual em Avaliações Online na Rota das Emoções
 
 Este repositório contém o banco de dados tratado e o script de análise estatística para o artigo científico intitulado **"Extensão Textual em Avaliações Online de Atrações Turísticas: Uma Análise entre Detratores e Promotores na Rota das Emoções"**.
@@ -45,4 +44,3 @@ Se você utilizar este banco de dados ou script em seus trabalhos, por favor, ci
 Esta citação garante que você sempre aponte para a versão mais recente do projeto, que incluirá o link para o artigo publicado (quando disponível).
 
 > Santos-Rodrigues, B., Lima, F. H. B., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online na Rota das Emoções* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17625444
-```
