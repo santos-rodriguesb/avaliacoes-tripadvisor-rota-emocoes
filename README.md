@@ -1,10 +1,10 @@
-# Avaliações Online na Rota das Emoções – Análise Estatística
+# Extensão Textual em Avaliações Online na Rota das Emoções
 
-Este repositório contém o banco de dados tratado e o script de análise estatística para o artigo submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR), intitulado **"A Correlação entre a Nota e a Extensão dos Comentários em Avaliações Online de Atrações Turísticas na Rota das Emoções no TripAdvisor"**.
+Este repositório contém o banco de dados tratado e o script de análise estatística para o artigo submetido à Revista Brasileira de Pesquisa em Turismo (RBTUR), intitulado **"Extensão Textual em Avaliações Online de Atrações Turísticas: Uma Análise entre Detratores e Promotores na Rota das Emoções".**
 
 ## 🎯 Objetivo
 
-Investigar se existe diferença significativa no tamanho dos comentários entre os grupos de detratores (notas 1 e 2) e promotores (notas 4 e 5) em avaliações de atrações turísticas na Rota das Emoções, utilizando testes estatísticos não paramétricos.
+Testar a premissa teórica de que a polaridade da avaliação (positiva vs. negativa) influencia a extensão textual dos comentários online. A análise investiga se há diferença estatisticamente significativa no tamanho dos comentários entre os grupos de **detratores** (notas 1 e 2) e **promotores** (notas 4 e 5) em avaliações de atrações turísticas na Rota das Emoções.
 
 ## 📁 Conteúdo
 
@@ -15,16 +15,16 @@ Investigar se existe diferença significativa no tamanho dos comentários entre 
 
 ## 🧪 Metodologia
 
-- Coleta automatizada de 2.637 avaliações públicas no TripAdvisor  
-- Criação de variáveis: número de palavras (`Length_of_review`) e classificação (`Grupo`)  
-- Exclusão de outliers via distância de Mahalanobis  
-- Teste de normalidade com Shapiro-Wilk  
-- Comparação entre grupos com teste de Mann-Whitney  
-- Visualização com `ggplot2`
+- **Coleta:** Web scraping de avaliações públicas no TripAdvisor.
+- **Preparação:** Criação das variáveis Length_of_review (número de palavras) e Grupo (Detrator/Promotor).
+- **Limpeza:** Exclusão de outliers multivariados via distância de Mahalanobis ($\chi^2$).
+- **Análise:** Teste de normalidade (Shapiro-Wilk) e comparação não paramétrica entre grupos (Mann-Whitney U).
 
 ## 📊 Resultado principal
 
-> Não foi identificada diferença estatisticamente significativa no tamanho dos comentários entre detratores e promotores (W = 78.447; p = 0.8967).
+> O resultado do teste (W = 78.447; p = 0.8967) indica que não há diferença estatisticamente significativa no tamanho dos comentários entre detratores e promotores.
+
+O achado refuta a hipótese teórica de que a insatisfação (dissonância cognitiva) gera textos mais longos, sugerindo que no contexto turístico de alto envolvimento, o engajamento textual é um fenômeno complexo e independe da simples polaridade da nota.
 
 ## 👥 Autoria
 
