@@ -33,12 +33,6 @@ O achado refuta a hipótese teórica de que a insatisfação (dissonância cogni
 - **Prof. Dr. André Riani Costa Perinotto** – Universidade Federal do Delta do Parnaíba (UFDPar)  
   *(Professor permanente da pós-graduação em Turismo na UFPR)*
 
-## 🧾 Submissão
-
-Artigo Publicado na **Revista XYZ**  
-Qualis Abcd | Área: Turismo  
-Previsão de publicação: após aprovação editorial
-
 ## 📜 Licença
 
 Este projeto está sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Você pode usar, modificar e distribuir os dados e códigos, desde que forneça a atribuição adequada.
