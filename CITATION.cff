@@ -4,10 +4,10 @@ title: "Extensão Textual em Avaliações Online de Atrações Turísticas: Uma 
 authors:
   - given-names: "Breno"
     family-names: "Santos-Rodrigues"
-  - given-names: "Francisco Henrique"
-    family-names: "Bezerril Lima"
-  - given-names: "André Riani"
-    family-names: "Costa Perinotto"
+  - given-names: "Francisco Henrique Bezerril de"
+    family-names: "Lima"
+  - given-names: "André Riani Costa"
+    family-names: "Perinotto"
 # DOI Conceitual (para todas as versões). Sempre apontará para a mais recente.
 doi: "10.5281/zenodo.17625444"
 repository-code: "https://github.com/santos-rodriguesb/avaliacoes-tripadvisor-rota-emocoes"
