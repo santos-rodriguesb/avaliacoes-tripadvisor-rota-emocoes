@@ -29,7 +29,7 @@ O achado refuta a hipótese teórica de que a insatisfação (dissonância cogni
 ## 👥 Autoria
 
 * **Breno Santos-Rodrigues** – Universidade Federal do Paraná (UFPR)
-* **Francisco Henrique Bezerril Lima** – Universidade Federal do Rio Grande do Norte (UFRN)
+* **Francisco Henrique Bezerril de Lima** – Universidade Federal do Rio Grande do Norte (UFRN)
 * **André Riani Costa Perinotto** – Universidade Federal do Delta do Parnaíba (UFDPar) / Universidade Federal do Paraná (UFPR)
 
 ## 📜 Licença
@@ -43,4 +43,4 @@ Se você utilizar este banco de dados ou script em seus trabalhos, por favor, ci
 **Citação do Repositório (DOI Geral/Conceitual):**
 Esta citação garante que você sempre aponte para a versão mais recente do projeto, que incluirá o link para o artigo publicado (quando disponível).
 
-> Santos-Rodrigues, B., Lima, F. H. B., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online na Rota das Emoções* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17625444
+> Santos-Rodrigues, B., Lima, F. H. B. de ., & Perinotto, A. R. C. (2025). *Extensão Textual em Avaliações Online na Rota das Emoções* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17625444
